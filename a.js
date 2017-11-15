@@ -1,4 +1,4 @@
-const one = 4;
+const one = 88;
 const two = 2;
 
 const three = one + two;
