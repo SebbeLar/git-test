@@ -1,8 +1,11 @@
-const one = 88;
-const two = 2;
+import React from 'react';
 
-const three = one + two;
-
-// I'm added from the ff branch
-
-export default three;
+class App {
+  render() {
+    return (
+      <div className="foo">
+        <button onClick={() => null}\>
+      <\div>
+    )
+  }
+}
